@@ -24,16 +24,14 @@ Users should be able to:
 
 - View the relevant dropdown menus on desktop and mobile when interacting with the navigation links
 - View the optimal layout for the content depending on their device's screen size
-- See hover states for all interactive elements on the page
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![CRL Final Challenge | Desktop View](img/Web-capture_18-11-2022_1396_.jpeg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[Live site URL](https://i-strider243.github.io/conquering-responsive-layouts__final-nav-challenge/)
 
 ## My process
 
